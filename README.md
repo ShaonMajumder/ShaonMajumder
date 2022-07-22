@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - [Real-time Object detection using Deep Learning Featuring Rokomari.com Old Software Room](https://www.youtube.com/watch?v=5Nj3ARSmmpc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/ShaonMajumder)
 
 ---
 
@@ -111,10 +111,10 @@ Here are some ideas to get you started:
 
 [website]: https://robist.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/TheShaonShow
+[youtube]: https://youtube.com/ShaonMajumder
+[instagram]: https://instagram.com/ShaonMajumder
+[linkedin]: https://linkedin.com/in/ShaonMajumder
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
