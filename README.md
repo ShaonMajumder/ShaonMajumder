@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - [About Balancing your life beside a Tech job](https://shaonmajumder.medium.com/about-balancing-your-life-beside-a-tech-job-b70fa7ab1205)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://shaonmajumder.medium.com)
 
 ---
 
