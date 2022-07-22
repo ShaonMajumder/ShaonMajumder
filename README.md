@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/TheShaonShow
 [youtube]: https://youtube.com/ShaonMajumder
-[instagram]: https://instagram.com/ShaonMajumder
+[instagram]: https://instagram.com/shaon.majumder
 [linkedin]: https://linkedin.com/in/ShaonMajumder
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
