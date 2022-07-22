@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ## I'm a Son, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am currently exploring the world besides my dayjob
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -110,7 +110,6 @@ Here are some ideas to get you started:
 </details>
 
 [website]: https://robist.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/TheShaonShow
 [youtube]: https://youtube.com/ShaonMajumder
 [instagram]: https://instagram.com/shaon.majumder
