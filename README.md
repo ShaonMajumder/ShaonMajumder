@@ -78,11 +78,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Interview Review-1 Senior Software Engineer](https://shaonmajumder.medium.com/technical-interview-review-1-senior-software-engineer-f56f1bad479a)
+- [Coding Practices learned from Software Industry(4th year)](https://shaonmajumder.medium.com/coding-practices-learned-from-software-industry-4th-year-c80a4e8ea850)
+- [INTERFACING NOKIA 5100 LCD DISPLAY](https://tech.rokomari.com/interfacing-nokia-5100-lcd-display/)
 - [একটি কোম্পানিতে যাবার আগে যে ফ্যাক্টরগুলো বিবেচনা করতে হয়](https://shaonmajumder.medium.com/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AF%E0%A6%BC-ddc299cc0e1e)
 - [About Balancing your life beside a Tech job](https://shaonmajumder.medium.com/about-balancing-your-life-beside-a-tech-job-b70fa7ab1205)
-- [Technical Interview Review-1 Senior Software Engineer](https://shaonmajumder.medium.com/technical-interview-review-1-senior-software-engineer-f56f1bad479a)
-- [INTERFACING NOKIA 5100 LCD DISPLAY](https://tech.rokomari.com/interfacing-nokia-5100-lcd-display/)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
