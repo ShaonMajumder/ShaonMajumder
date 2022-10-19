@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+**[Learn From ME](https://github.com/ShaonMajumder/development_notes)**
 
 **ShaonMajumder/ShaonMajumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,6 +78,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IEB certification; how much importance it has in Bangladesh in career !](https://shaonmajumder.medium.com/in-my-practical-experience-now-a-days-ieb-certification-are-not-that-important-for-having-job-in-cc0d65b236)
+- [The GitHub Annoying Token Issue](https://shaonmajumder.medium.com/the-github-annoying-token-issue-80ffa6fad291)
+- [যেভাবে Git ইন্সটল করবেন Ubuntu 20.04 এ [Linux]](https://shaonmajumder.medium.com/%E0%A6%AF%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-git-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8-ubuntu-20-04-%E0%A6%8F-linux-5eb970b96539)
+- [Coding Practices learned from Software Industry(4th year)](https://medium.com/@shaonmajumder/coding-practices-learned-from-software-industry-4th-year-c80a4e8ea850)
+- [INTERFACING NOKIA 5100 LCD DISPLAY](https://tech.rokomari.com/interfacing-nokia-5100-lcd-display/)
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
