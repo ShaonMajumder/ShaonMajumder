@@ -21,9 +21,9 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 ## I'm a Leader, Engineer, and Traveller!!
 - I am a lifelong learner who actively seeks out new experiences from different aspects of life.
 - In addition to leading my tech team, I also manage mountain trips.
-- At leisure, I love to sing along and play with my collegue, friends in tours.
-- Gym & Swim where I get my day to day physical & mental motivation.
-- 2023 Goals: Building a hybrid tech team and summiting 6000m mountain.
+- I receive my daily physical and mental inspiration from the gym and swimming.
+- I enjoy playing and singing along with my friends and coworkers when I have free time.
+- 2023 Goals: Assembling a hybrid tech team and summiting a 6000-meter peak.
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" />][webdevplaylist]
