@@ -70,7 +70,12 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaonmajumder&" alt="shaonmajumder" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=shaonmajumder&show_icons=true&locale=en" alt="shaonmajumder" />
+</div>
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
