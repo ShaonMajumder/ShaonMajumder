@@ -68,6 +68,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 📺 Live Project Demos
+- [CV](https://shaonmajumder.netlify.app/)
+- [BanglaTube]()
+- [BanglaTube]()
+
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
