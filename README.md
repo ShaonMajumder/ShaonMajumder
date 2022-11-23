@@ -1,5 +1,5 @@
 ### Hi there 👋
-**[Learn From ME](https://github.com/ShaonMajumder/development_notes)**
+
 I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslglobal.com/)** as Software Engineer.
 
 Here are some ideas to get you started:
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+**[Learn From ME](https://github.com/ShaonMajumder/development_notes)**
 ### Hi there, I'm Shaon Majumder - aka [Robist][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
