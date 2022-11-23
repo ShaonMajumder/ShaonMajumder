@@ -19,12 +19,11 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Leader, Engineer, and Traveller!!
-
-- 🔭 I am currently exploring the world besides my dayjob
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- I am a lifelong learner who actively seeks out new experiences from different aspects of life.
+- In addition to leading my tech team, I also manage mountain trips.
+- At leisure, I love to sing along and play with my collegue, friends in tours.
+- Gym & Swim where I get my day to day physical & mental motivation.
+- 2023 Goals: Building a hybrid tech team and summiting 6000m mountain.
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" />][webdevplaylist]
