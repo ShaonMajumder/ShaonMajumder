@@ -69,9 +69,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
 
 #### Hacker Rank 
-- 40 Solved
-- one skill badge
-- Url - https://www.hackerrank.com/shaonmajumder
+40 Solved, one skill badge, https://www.hackerrank.com/shaonmajumder
 
 ### My GitHub Stats
 <div>
