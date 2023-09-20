@@ -63,7 +63,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 - [NPM JS](https://www.npmjs.com/~shaonmajumder)
 
 ### Problem Solving
-![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity&ext=heatmap)
 
 ### My GitHub Stats
 <div>
