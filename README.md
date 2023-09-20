@@ -62,6 +62,9 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 - [Composer Php Laravel](https://packagist.org/packages/shaonmajumder)
 - [NPM JS](https://www.npmjs.com/~shaonmajumder)
 
+### Problem Solving
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 ### My GitHub Stats
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaonmajumder&" alt="shaonmajumder" />
