@@ -67,6 +67,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
 #### UVA Online Judge
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
+
 #### Hacker Rank 
 - 40 Solved
 - one skill badge
