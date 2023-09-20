@@ -96,6 +96,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Resilient Microservices Infrastructure: Exploring the Components (Chapter-1)](https://shaonmajumder.medium.com/building-a-resilient-microservices-infrastructure-exploring-the-components-chapter-1-80e7499cbb76)
 - [Technical Interview Review-1 Senior Software Engineer](https://shaonmajumder.medium.com/technical-interview-review-1-senior-software-engineer-f56f1bad479a)
 - [Coding Practices learned from Software Industry(4th year)](https://shaonmajumder.medium.com/coding-practices-learned-from-software-industry-4th-year-c80a4e8ea850)
 - [INTERFACING NOKIA 5100 LCD DISPLAY](https://tech.rokomari.com/interfacing-nokia-5100-lcd-display/)
