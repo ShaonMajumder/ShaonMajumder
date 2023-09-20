@@ -63,9 +63,9 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 - [NPM JS](https://www.npmjs.com/~shaonmajumder)
 
 ### Problem Solving
+#### LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
-
-
+#### UVA Online Judge
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
 
 ### My GitHub Stats
