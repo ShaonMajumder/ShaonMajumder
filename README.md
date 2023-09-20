@@ -61,7 +61,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 - [PIP Python](https://pypi.org/user/shaonmajumder)
 - [Composer Php Laravel](https://packagist.org/packages/shaonmajumder)
 - [NPM JS](https://www.npmjs.com/~shaonmajumder)
-- 
+
 ### My GitHub Stats
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaonmajumder&" alt="shaonmajumder" />
