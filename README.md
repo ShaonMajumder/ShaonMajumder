@@ -66,6 +66,7 @@ I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslgloba
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
 
 ![UVA Online Judge](images/UVA_2023-09-20_11-27.png)
+<img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:200px;"/>
 
 ### My GitHub Stats
 <div>
