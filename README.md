@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ✨ Shaon Majumder ✨, currently working at **[BYSL](https://www.byslglobal.com/)** as Software Engineer.
+I am ✨ Shaon Majumder ✨, currently working at **[CLarioScope AI](https://clarioscope.ai/)** as Software Engineer.
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
