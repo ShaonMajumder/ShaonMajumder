@@ -79,9 +79,16 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 - [Composer Php Laravel](https://packagist.org/packages/shaonmajumder)
 - [NPM JS](https://www.npmjs.com/~shaonmajumder)
 
-### Problem Solving
+### 🧩 Problem Solving Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-26_solved-yellow?logo=leetcode&logoColor=white)](https://leetcode.com/ShaonMajumder/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-40_solved-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shaonmajumder)
+[![CodeChef](https://img.shields.io/badge/CodeChef-154_solved-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/shaonmajumder)
+[![UVA Online Judge](https://img.shields.io/badge/UVA-52_solved-blue)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=241107)
+
 #### LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
+
 #### UVA Online Judge
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
 
