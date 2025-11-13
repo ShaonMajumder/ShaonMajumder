@@ -89,6 +89,9 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 #### LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
 
+#### Hackerrank
+![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=shaonmajumder&solved=89)
+
 #### UVA Online Judge
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
 
