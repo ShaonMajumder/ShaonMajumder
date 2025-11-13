@@ -1,6 +1,30 @@
-### Hi there 👋
+### Hi there 👋  
 
-I am ✨ Shaon Majumder ✨, currently working at **[CLarioScope AI](https://clarioscope.ai/)** as Software Engineer.
+I’m ✨ **Shaon Majumder** ✨  
+
+**Senior Software Engineer / Engineering Manager / High-Scale Backend Architect (200M+ Users)**  
+**System Design · AI Platforms · Scalable APIs & Microservices**
+
+Currently working as **Engineering Manager** at **[ClarioScope AI](https://clarioscope.ai/)**, building:
+
+- **HIPAA-compliant AI healthcare platforms**  
+- **MCP-powered AI agents** that automate SaaS workflows  
+- **Scalable backends** and microservices for high-traffic, production systems  
+
+I love working on **AI + scalability**, **clean architecture**, and **developer experience**.
+
+> 📚 Want to see how I think and code?  
+> 👉 **[Learn from me — dev notes, patterns, and snippets](https://github.com/ShaonMajumder/development_notes)**
+
+---
+
+## 👨‍💻 About Me
+
+- 🧠 **Engineer & Architect** – designing **scalable APIs**, **microservices**, and **AI-powered products**.  
+- 🚀 **Leader** – have served as **Engineering Manager**, **CTO**, and **Founder**, mentoring teams and shipping products end-to-end.  
+- 🤖 **Robotics & IoT background** – 5+ years as a robotics startup founder (drones, automation, IoT dashboards).  
+- 🌍 **Lifelong learner** – love exploring new domains: healthcare, telecom, fintech, logistics, garments, ecommerce & more.  
+
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
@@ -12,18 +36,11 @@ I am ✨ Shaon Majumder ✨, currently working at **[CLarioScope AI](https://cla
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-**[Learn From ME](https://github.com/ShaonMajumder/development_notes)**
-<!-- ### Hi there, I'm Shaon Majumder - aka [Robist][website] 👋  -->
+
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Leader, Engineer, and Traveller!!
-- I am a lifelong learner who actively seeks out new experiences from different aspects of life.
-- In addition to leading my tech team, I also manage mountain trips.
-- I receive my daily physical and mental inspiration from the gym and swimming.
-- I enjoy playing and singing along with my friends and coworkers when I have free time.
-- 2023 Goals: Assembling a hybrid tech team and summiting a 6000-meter peak.
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" />][webdevplaylist]
