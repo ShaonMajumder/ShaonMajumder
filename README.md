@@ -95,8 +95,7 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 #### UVA Online Judge
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
 
-#### Hacker Rank 
-40 Solved, one skill badge, https://www.hackerrank.com/shaonmajumder
+
 
 ### My GitHub Stats
 <div>
