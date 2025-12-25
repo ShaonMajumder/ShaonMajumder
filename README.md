@@ -114,6 +114,8 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 
 ### 📕 Latest Blog Posts
 
+![Latest Medium Post](https://medium-blogs-stats-card.netlify.app/api/medium-blog-card?username=shaonmajumder&limit=10&theme=dark&show_date=true&show_tags=true)
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Composer Package for PHP or Laravel](https://shaonmajumder.medium.com/how-to-build-a-composer-package-for-php-or-laravel-d8001b6fe948)
 - [Building a Resilient Microservices Infrastructure: Exploring the Components (Chapter-1)](https://shaonmajumder.medium.com/building-a-resilient-microservices-infrastructure-exploring-the-components-chapter-1-80e7499cbb76)
