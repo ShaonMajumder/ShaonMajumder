@@ -63,7 +63,7 @@ I love working on **Platform, AI, Robotics**.
 
 #### LeetCode
 
-![LeetCode Stats](https://leetcode-stats-card.netlify.app/ShaonMajumder?theme=light&font=Baloo+2&ext=activity)
+
 
 #### Hackerrank
 
