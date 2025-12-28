@@ -92,7 +92,7 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 
 ### Work Experience Snapshot
 
-![Work Experience](https://shaonresume.netlify.app/api/jobs-card)
+![Work Experience](https://shaonresume.netlify.app/api/jobs-card?v=1766925279566)
 
 ---
 
