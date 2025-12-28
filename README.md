@@ -3,7 +3,7 @@
 I’m ✨ **Shaon Majumder** ✨
 
 **Senior Software Engineer / Engineering Manager / High-Scale Backend Architect (200M+ Users)**  
-**System Design · AI Platforms · Scalable APIs & Microservices**
+**System Design · AI Platforms · Scalable APIs & Microservices · Robotics Control**
 
 Currently working as **Engineering Manager** at **[ClarioScope AI](https://clarioscope.ai/)**, building:
 
@@ -13,7 +13,6 @@ Currently working as **Engineering Manager** at **[ClarioScope AI](https://clari
 
 I love working on **AI + scalability**, **clean architecture**, and **developer experience**.
 
-> 📚 Want to see how I think and code?  
 > 👉 **[Learn from me — dev notes, patterns, and snippets](https://github.com/ShaonMajumder/development_notes)**
 
 ---
@@ -23,7 +22,7 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 - 🧠 **Engineer & Architect** – designing **scalable APIs**, **microservices**, and **AI-powered products**.
 - 🚀 **Leader** – have served as **Engineering Manager**, **CTO**, and **Founder**, mentoring teams and shipping products end-to-end.
 - 🤖 **Robotics & IoT background** – 5+ years as a robotics startup founder (drones, automation, IoT dashboards).
-- 🌍 **Lifelong learner** – love exploring new domains: healthcare, telecom, fintech, logistics, garments, ecommerce & more.
+- 🌍 **Lifelong learner** – love exploring new domains. Landed on healthcare, telecom, fintech, logistics, garments, ecommerce, robotics, IOT & more ...
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
