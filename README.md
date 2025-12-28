@@ -5,15 +5,7 @@ I’m ✨ **Shaon Majumder** ✨
 **Senior Software Engineer / Engineering Manager / High-Scale Backend Architect (200M+ Users)**  
 **System Design · AI Platforms · Scalable APIs & Microservices · Robotics Control**
 
-Currently working as **Engineering Manager** at **[ClarioScope AI](https://clarioscope.ai/)**, building:
-
-- **HIPAA-compliant AI healthcare platforms**
-- **MCP-powered AI agents** that automate SaaS workflows
-- **Scalable backends** and microservices for high-traffic, production systems
-
-I love working on **AI + scalability**, **clean architecture**, and **developer experience**.
-
-> 👉 **[Learn from me — dev notes, patterns, and snippets](https://github.com/ShaonMajumder/development_notes)**
+I love working on **Platform, AI, Robotics**.
 
 ---
 
@@ -71,7 +63,7 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 
 #### LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ShaonMajumder?ext=activity)
+![LeetCode Stats](https://leetcode-stats-card.netlify.app/ShaonMajumder?theme=light&font=Baloo+2&ext=activity)
 
 #### Hackerrank
 
