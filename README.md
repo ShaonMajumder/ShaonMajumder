@@ -90,6 +90,12 @@ I love working on **AI + scalability**, **clean architecture**, and **developer 
 
 ---
 
+### Work Experience Snapshot
+
+![Work Experience](https://shaonresume.netlify.app/api/jobs-card)
+
+---
+
 ### 📺 Skill Projects
 
 - [PenOS-RT](https://github.com/shaonmajumder/PenOS-RT)
