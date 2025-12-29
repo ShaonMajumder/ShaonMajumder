@@ -69,6 +69,10 @@ I love working on **Platform, AI, Robotics**.
 
 ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=shaonmajumder&solved=89)
 
+#### CodeChef
+
+![CodeChef Stats](https://codechef-stats-card.netlify.app/api/codechef-card?username=shaonmajumder)
+
 #### UVA Online Judge
 
 <img src="images/UVA_2023-09-20_11-27.png" alt="drawing" style="width:500px;"/>
