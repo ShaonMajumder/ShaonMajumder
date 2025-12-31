@@ -122,14 +122,7 @@ I love working on **Platform, AI, Robotics**.
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-
-- [Fast Laravel App Challenge Live](https://www.youtube.com/watch?v=5w9zOjqZg_I)
-- [Industrial Robotics | RIFID based restaurant management System| via Conveyor Belt Drive | Phase 3](https://www.youtube.com/watch?v=mG3S9V09oz4)
-- [How to make Thumbnail for YouTube With Photoshop | Easy & Free | (বাংলা)](https://www.youtube.com/watch?v=oME7xg-xJo4)
-- [AI Object Detection, Place: Dhaka | YOLO | Deep Learning | Artificial Intelligence Demo](https://www.youtube.com/watch?v=aQ1HHXJjG6o)
-- [Real-time Object detection using Deep Learning Featuring Rokomari.com Old Software Room](https://www.youtube.com/watch?v=5Nj3ARSmmpc)
-<!-- YOUTUBE:END -->
+![Latest YouTube Videos](https://youtube-stats-card.robist.com/api/youtube-card?handle=shaonmajumder&limit=5&theme=dark&show_date=true&show_views=true)
 
 ➡️ [more videos...](https://youtube.com/ShaonMajumder)
 
