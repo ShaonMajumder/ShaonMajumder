@@ -63,15 +63,21 @@ I love working on **Platform, AI, Robotics**.
 
 #### LeetCode
 
-![LeetCode Stats](https://leetcode-stats-card.netlify.app/ShaonMajumder?theme=glass&font=Baloo+2&ext=activity)
+![LeetCode Stats](images/leetcode.svg)
+
+<!-- ![LeetCode Stats](https://leetcode-stats-card.netlify.app/ShaonMajumder?theme=glass&font=Baloo+2&ext=activity) -->
 
 #### Hackerrank
 
-![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=shaonmajumder&solved=89)
+![HackerRank Stats](images/hackerrank.svg)
+
+<!-- ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=shaonmajumder&solved=89) -->
 
 #### CodeChef
 
-![CodeChef Stats](https://codechef-stats-card.netlify.app/api/codechef-card?username=shaonmajumder)
+![CodeChef Stats](images/codechef.svg)
+
+<!-- ![CodeChef Stats](https://codechef-stats-card.netlify.app/api/codechef-card?username=shaonmajumder) -->
 
 #### UVA Online Judge
 
@@ -88,7 +94,9 @@ I love working on **Platform, AI, Robotics**.
 
 ### Work Experience Snapshot
 
-![Work Experience](https://shaonresume.netlify.app/api/jobs-card?v=1766925279566)
+![Work Experience](images/work.svg)
+
+<!-- ![Work Experience](https://shaonresume.netlify.app/api/jobs-card?v=1766925279566) -->
 
 ---
 
@@ -114,7 +122,9 @@ I love working on **Platform, AI, Robotics**.
 
 ### 📕 Latest Blog Posts
 
-![Latest Medium Post](https://medium-blogs-stats-card.netlify.app/api/medium-blog-card?username=shaonmajumder&limit=10&theme=dark&show_date=true&show_tags=true)
+![Latest Medium Post](images/medium.svg)
+
+<!-- ![Latest Medium Post](https://medium-blogs-stats-card.netlify.app/api/medium-blog-card?username=shaonmajumder&limit=10&theme=dark&show_date=true&show_tags=true) -->
 
 ➡️ [more blog posts...](https://shaonmajumder.medium.com)
 
@@ -122,7 +132,9 @@ I love working on **Platform, AI, Robotics**.
 
 ### 📺 Latest YouTube Videos
 
-![Latest YouTube Videos](https://youtube-stats-card.robist.com/api/youtube-card?handle=shaonmajumder&limit=5&theme=dark&show_date=true&show_views=true)
+![Latest YouTube Videos](images/youtube.svg)
+
+<!-- ![Latest YouTube Videos](https://youtube-stats-card.robist.com/api/youtube-card?handle=shaonmajumder&limit=5&theme=dark&show_date=true&show_views=true) -->
 
 ➡️ [more videos...](https://youtube.com/ShaonMajumder)
 

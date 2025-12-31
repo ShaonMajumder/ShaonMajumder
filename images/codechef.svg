@@ -1,0 +1,147 @@
+
+    <svg width="540" height="390" viewBox="0 0 540 390" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0f172a" />
+          <stop offset="100%" stop-color="#1f2937" />
+        </linearGradient>
+        <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f59e0b" />
+          <stop offset="100%" stop-color="#f97316" />
+        </linearGradient>
+        <filter id="soft-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+
+      <rect width="540" height="390" rx="16" fill="url(#card-bg)"/>
+      <rect x="2" y="2" width="536" height="386" rx="14" fill="rgba(255,255,255,0.03)" stroke="#334155" stroke-width="1"/>
+      <rect x="0" y="0" width="540" height="4" fill="url(#accent)" filter="url(#soft-glow)"/>
+
+      <text x="28" y="40" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="700" fill="#ffffff">
+        Shaon Majumder
+      </text>
+      <text x="28" y="60" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5f5">
+        @shaonmajumder - Bangladesh
+      </text>
+
+      <g transform="translate(28, 78)">
+        
+    <g transform="translate(0, 0)">
+      <rect width="240" height="58" rx="10" fill="rgba(15, 23, 42, 0.75)" stroke="rgba(148, 163, 184, 0.2)" stroke-width="1"/>
+      <text x="16" y="22" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5f5" letter-spacing="0.4">
+        Solved
+      </text>
+      <text x="16" y="42" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
+        155
+      </text>
+    </g>
+  
+        
+    <g transform="translate(252, 0)">
+      <rect width="240" height="58" rx="10" fill="rgba(15, 23, 42, 0.75)" stroke="rgba(148, 163, 184, 0.2)" stroke-width="1"/>
+      <text x="16" y="22" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5f5" letter-spacing="0.4">
+        Badges
+      </text>
+      <text x="16" y="42" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
+        2
+      </text>
+    </g>
+  
+      </g>
+
+      <line x1="28" y1="210" x2="512" y2="210" stroke="rgba(148, 163, 184, 0.25)"/>
+      <text x="28" y="230" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">
+        Recent Activity
+      </text>
+      
+    <text x="28" y="252" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8" letter-spacing="0.4">
+      Time
+    </text>
+    <text x="140" y="252" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8" letter-spacing="0.4">
+      Problem
+    </text>
+    <text x="250" y="252" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8" letter-spacing="0.4">
+      Result
+    </text>
+    <text x="330" y="252" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8" letter-spacing="0.4">
+      Lang
+    </text>
+    <text x="512" y="252" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8" letter-spacing="0.4">
+      Solution
+    </text>
+  
+        <text x="28" y="268" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          01:22 AM 18/05/25
+        </text>
+        <text x="140" y="268" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GOB027
+        </text>
+        <text x="250" y="268" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          (100)
+        </text>
+        <text x="330" y="268" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GO
+        </text>
+        <text x="512" y="268" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">
+          View
+        </text>
+      
+        <text x="28" y="288" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          02:43 PM 17/05/25
+        </text>
+        <text x="140" y="288" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GOB026
+        </text>
+        <text x="250" y="288" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          (100)
+        </text>
+        <text x="330" y="288" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GO
+        </text>
+        <text x="512" y="288" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">
+          View
+        </text>
+      
+        <text x="28" y="308" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          02:42 PM 17/05/25
+        </text>
+        <text x="140" y="308" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GOB026
+        </text>
+        <text x="250" y="308" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          N/A
+        </text>
+        <text x="330" y="308" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GO
+        </text>
+        <text x="512" y="308" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">
+          View
+        </text>
+      
+        <text x="28" y="328" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          02:41 PM 17/05/25
+        </text>
+        <text x="140" y="328" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GOB026
+        </text>
+        <text x="250" y="328" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          N/A
+        </text>
+        <text x="330" y="328" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">
+          GO
+        </text>
+        <text x="512" y="328" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">
+          View
+        </text>
+      
+
+      <text x="516" y="378" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">
+        CodeChef Stats Card
+      </text>
+    </svg>
+  

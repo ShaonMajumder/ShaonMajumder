@@ -1,0 +1,401 @@
+
+    <svg width="550" height="1130" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#00ab6c;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#4fd08a;stop-opacity:1" />
+        </linearGradient>
+        <pattern id="grain" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+          <rect width="4" height="4" fill="#0b0b0b" />
+          <circle cx="1" cy="1" r="0.4" fill="#1b1b1b" />
+          <circle cx="3" cy="2" r="0.35" fill="#1b1b1b" />
+        </pattern>
+      </defs>
+
+      <rect width="550" height="1130" rx="16" fill="url(#grain)" />
+      <rect x="18" y="16" width="514" height="1098" rx="18" fill="#101010" stroke="#2f2f2f" stroke-width="1.5"/>
+      <rect x="34" y="34" width="8" height="1062" rx="6" fill="#ffffff" opacity="0.6" />
+
+      <g transform="translate(70, 50)">
+        <text x="0" y="0" font-family="'Playfair Display', 'Georgia', serif" font-size="24" font-weight="600" fill="#ffffff">
+          Latest Medium Posts
+        </text>
+        <text x="0" y="22" font-family="'Sora', 'Segoe UI', sans-serif" font-size="12" fill="#b3b3b3">
+          Curated from your Medium RSS feed
+        </text>
+      </g>
+
+      
+        <g transform="translate(70, 110)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/how-the-debugging-process-starts-in-laravel-senior-level-answer-775bfe21163f" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">How the Debugging Process Starts in Laravel</tspan><tspan x="0" dy="18">(Senior-Level Answer)</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Dec 24, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          software-en...
+        </text>
+      </g>
+    
+      <g transform="translate(120, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          backend-dev...
+        </text>
+      </g>
+    
+      <g transform="translate(240, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          engineering...
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 210)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/the-mini-marketing-playbook-every-developer-should-use-for-new-projects-3a62ca47f22a" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">The Mini Marketing Playbook Every Developer Should</tspan><tspan x="0" dy="18">Use for New Projects</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Nov 13, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          personal-br...
+        </text>
+      </g>
+    
+      <g transform="translate(120, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          software-en...
+        </text>
+      </g>
+    
+      <g transform="translate(240, 68)">
+        <rect width="100" height="16" rx="8" fill="#2f2f2f" />
+        <text x="50" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          side-project
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 310)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/build-your-own-hackerrank-stats-card-a-full-stack-project-react-svg-netlify-functions-af5376cd6629" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Build Your Own HackerRank Stats Card — A Full Stack</tspan><tspan x="0" dy="18">Project (React + SVG + Netlify Functions)</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Nov 13, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          javascript
+        </text>
+      </g>
+    
+      <g transform="translate(92, 68)">
+        <rect width="79" height="16" rx="8" fill="#2f2f2f" />
+        <text x="39.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          expressjs
+        </text>
+      </g>
+    
+      <g transform="translate(177, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          hackerrank
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 410)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/how-i-got-laravel-pint-working-on-windows-with-docker-vs-code-and-you-can-too-f3337dcc2875" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">How I Got Laravel Pint Working on Windows with</tspan><tspan x="0" dy="18">Docker + VS Code (and You Can Too!)</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Sep 19, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="58" height="16" rx="8" fill="#2f2f2f" />
+        <text x="29" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          vscode
+        </text>
+      </g>
+    
+      <g transform="translate(64, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          laravel-ext...
+        </text>
+      </g>
+    
+      <g transform="translate(184, 68)">
+        <rect width="37" height="16" rx="8" fill="#2f2f2f" />
+        <text x="18.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          php
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 510)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/who-is-the-most-powerful-person-in-the-world-2025-2030-outlook-a71db1d0bb8d" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Who Is the Most Powerful Person in the World? (2025</tspan><tspan x="0" dy="18">→ 2030 Outlook)</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Aug 25, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="100" height="16" rx="8" fill="#2f2f2f" />
+        <text x="50" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          global-power
+        </text>
+      </g>
+    
+      <g transform="translate(106, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          leadership
+        </text>
+      </g>
+    
+      <g transform="translate(198, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          innovation
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 610)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/build-a-real-time-websocket-chat-app-with-laravel-8-and-beyondcodes-websockets-swe-blogs-1320811ad6a2" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Build a Real-Time WebSocket Chat App with Laravel 8</tspan><tspan x="0" dy="18">and BeyondCode’s WebSockets! | SWE Blogs</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      May 26, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="58" height="16" rx="8" fill="#2f2f2f" />
+        <text x="29" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          docker
+        </text>
+      </g>
+    
+      <g transform="translate(64, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          realtime-ap...
+        </text>
+      </g>
+    
+      <g transform="translate(184, 68)">
+        <rect width="79" height="16" rx="8" fill="#2f2f2f" />
+        <text x="39.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          websocket
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 710)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/soketi-laravel-12-real-time-websocket-broadcasting-with-docker-swe-blogs-fb305fee6607" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Soketi + Laravel 12: Real-Time WebSocket</tspan><tspan x="0" dy="18">Broadcasting with Docker | SWE Blogs</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      May 26, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          laravel-12
+        </text>
+      </g>
+    
+      <g transform="translate(92, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          real-time-b...
+        </text>
+      </g>
+    
+      <g transform="translate(212, 68)">
+        <rect width="58" height="16" rx="8" fill="#2f2f2f" />
+        <text x="29" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          docker
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 810)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/how-to-count-total-unique-accepted-problems-on-hackerrank-using-javascript-d014923bd0ab" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">How to Count Total Unique Accepted Problems on</tspan><tspan x="0" dy="18">HackerRank Using JavaScript | SWE Blogs</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      May 17, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="86" height="16" rx="8" fill="#2f2f2f" />
+        <text x="43" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          javascript
+        </text>
+      </g>
+    
+      <g transform="translate(92, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          competitive...
+        </text>
+      </g>
+    
+      <g transform="translate(212, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          problem-sol...
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 910)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/sharding-mysql-in-laravel-a-guide-to-horizontal-scaling-3a2e4fa59557" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Sharding MySQL in Laravel: A Guide to Horizontal</tspan><tspan x="0" dy="18">Scaling</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Apr 28, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="65" height="16" rx="8" fill="#2f2f2f" />
+        <text x="32.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          laravel
+        </text>
+      </g>
+    
+      <g transform="translate(71, 68)">
+        <rect width="72" height="16" rx="8" fill="#2f2f2f" />
+        <text x="36" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          sharding
+        </text>
+      </g>
+    
+      <g transform="translate(149, 68)">
+        <rect width="37" height="16" rx="8" fill="#2f2f2f" />
+        <text x="18.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          php
+        </text>
+      </g>
+    
+        </g>
+      
+        <g transform="translate(70, 1010)">
+          <rect x="-12" y="-18" width="510" height="90" rx="12" fill="#181818" opacity="0.45" />
+          <a xlink:href="https://shaonmajumder.medium.com/why-i-hate-sanctum-for-high-traffic-applications-and-how-i-overcame-it-8dfaf3581c33" target="_blank">
+            <text x="0" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="14.5" font-weight="600" fill="#ffffff">
+              <tspan x="0" dy="0">Why I Hate Sanctum for High-Traffic Applications and</tspan><tspan x="0" dy="18">How I Overcame It | Scaling - SWE Blogs</tspan>
+            </text>
+          </a>
+          
+    <text x="0" y="46" font-family="'Sora', 'Segoe UI', sans-serif" font-size="11" fill="#b3b3b3">
+      Mar 27, 2025
+    </text>
+  
+          
+      <g transform="translate(0, 68)">
+        <rect width="114" height="16" rx="8" fill="#2f2f2f" />
+        <text x="57" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          authentication
+        </text>
+      </g>
+    
+      <g transform="translate(120, 68)">
+        <rect width="93" height="16" rx="8" fill="#2f2f2f" />
+        <text x="46.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          scalability
+        </text>
+      </g>
+    
+      <g transform="translate(219, 68)">
+        <rect width="65" height="16" rx="8" fill="#2f2f2f" />
+        <text x="32.5" y="12" font-family="'Sora', 'Segoe UI', sans-serif" font-size="9" fill="#b3b3b3" text-anchor="middle">
+          sanctum
+        </text>
+      </g>
+    
+        </g>
+      
+
+      <g transform="translate(0, 1118)">
+        <text x="70" y="0" font-family="'Sora', 'Segoe UI', sans-serif" font-size="10" fill="#b3b3b3" opacity="0.7">
+          Medium Blog Stats Card
+        </text>
+        
+      <text x="520" y="1112" font-family="'Segoe UI', sans-serif" font-size="10" fill="#00ab6c" text-anchor="end" opacity="0.7">
+        by shaonmajumder
+      </text>
+    
+      </g>
+    </svg>
+  
