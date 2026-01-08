@@ -31,6 +31,16 @@ I love working on **Platform, AI, Robotics**.
 
 ---
 
+## 🚀 Popular Open-Source Author
+
+> Over **392,769 downloads** across **14 popular open-source packages**  
+> spanning **Python (PyPI)**, **PHP (Composer)**, and **JavaScript (npm)**
+
+📊 **Verified download statistics & badges:**  
+👉 [View detailed package stats and proof](docs/package_stats_with_badges_and_totals.md)
+
+![Open Source Impact](images/libraries.png)
+
 ### Languages & Tools
 
 | Category                | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
